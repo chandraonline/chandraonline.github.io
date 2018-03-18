@@ -8,6 +8,7 @@ description: Learnings from my software development journey.
 show_downloads: false
 url: https://chandraonline.github.io
 baseurl: /
+repository: github.com/chandraonline/chandraonline.github.io
 
 paginate: 5
 
