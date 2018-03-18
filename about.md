@@ -1,9 +1,8 @@
 ---
+layout: page
 title: About Me
 permalink: about
 ---
-
-## About Me
 
 I have been a technologist for the past 25+ years architecting & building web & mobile products in areas of fintech , social, e*commerce, retail, ad tech & human resourcees. 
 

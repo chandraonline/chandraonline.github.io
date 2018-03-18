@@ -1,0 +1,7 @@
+---
+title:  How I got phished by an 8 year old
+description: How I got phished by my 8 year old son
+---
+
+I would like to consider myself a tech savvy individual that knows a thing or two about security. But for what its worth I got phished by my 8-year old son. Like all busy parents in this 21-st century, we let our iPad be the Nanny when we want some quiet time in the house. To feel less guilty about this habit of handing a gizmo to keep them occupied, I have severely restricted what they can do with it. We have also secured it with a Pin so either my wife or I can unlock it when we think they can play with it. Now this goes for a week or two and clearly my twins are not too happy about this arrangement. One day while I am busy doing something else one of them asks me to enter the passcode to continue playing and I enter the passcode for him and get back to what I was doing. Later that day, much to my surprise my pin does not work on the iPad anymore and my son has that It-wasn't-me-look on his face which of course means that he has everything to do with it. After some serious you-better-tell-me-what-you-did conversation, he admits he changed the pincode. The little brat made me enter the passcode in the change passcode screen and changed the passcode! While I was pretty mad when it happened, thinking back it was also a proud father moment to get phished by your 8-year old son :). Kids these days..... 
+

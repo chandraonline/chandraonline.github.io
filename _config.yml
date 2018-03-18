@@ -1,5 +1,20 @@
-theme: jekyll-theme-modernist
-title: chandraonline.net
+plugins: [jekyll-paginate]
+permalink: pretty
+timezone: America/Los_Angeles
+title: chandraonline
+author:
+name: 'Chandra Siva'
 description: Learnings from my software development journey.
 show_downloads: false
 url: https://chandraonline.github.io
+baseurl: /
+
+paginate: 5
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
