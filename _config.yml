@@ -1,4 +1,4 @@
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-gist]
 permalink: pretty
 timezone: America/Los_Angeles
 title: chandraonline
