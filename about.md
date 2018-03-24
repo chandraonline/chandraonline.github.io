@@ -8,4 +8,4 @@ I have been a technologist for the past 25+ years architecting & building web & 
 
 I am currently the CTO / Head of Engineering at NextForce Technology , a startup building a marketplace for hourly workers. I also co-organize the Trivalley Blockchain & Crypto meetup and give blockchain related talks from time to time.
 
-You can follow me on twitter at https://twitter.com/@chandra.
+You can follow me on twitter at [@chandra](https://twitter.com/@chandra).
