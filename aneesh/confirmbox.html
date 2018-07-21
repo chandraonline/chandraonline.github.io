@@ -1,0 +1,23 @@
+<html>
+<head>
+<script>
+var c = confirm("do you to see surpise");
+if(c== true) {
+document.write('<h3 style="color:blue">Here is gift for you ...</h3>')
+document.write('<img src="i-gift.png" id="myimage" onclick="changeimage()">')
+document.write('<h2 style="color:red">Clickto see the gift</h2>')
+} else {
+document. write('<h3 style="color:blue">Ohh, may be next time</h3>' )
+document.write('hr')
+}
+
+function changeimage()
+{
+document.getElementById('myimage').src = "device1.png"
+}
+
+</script>
+</head>
+<body>
+</body>
+</html>
